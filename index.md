@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## What you spend years building,someone could destroy over night,build anyway.
 
 You can use the [editor on GitHub](https://github.com/iwillmarryyou/redamancy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
